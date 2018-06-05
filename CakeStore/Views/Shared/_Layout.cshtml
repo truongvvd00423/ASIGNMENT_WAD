@@ -1,0 +1,241 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @*@Scripts.Render("~/bundles/modernizr")
+        @Styles.Render("~/Content/css/bootstrap.min.css")*@
+    @Styles.Render("~/Content/css/font-awesome.min.css")
+    @Styles.Render("~/Content/css/owl.carousel.css")
+    @Styles.Render("~/Content/css/owl.theme.css")
+    @Styles.Render("~/Content/css/yamm.css")
+    @Styles.Render("~/Content/css/style.css")
+    @Styles.Render("~/Content/css/responsive.css")
+    <link rel="icon" href="img/favicon.png">
+
+
+
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">
+    <link rel="icon" href="img/favicon.png">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700" rel="stylesheet">
+    @*<link rel="stylesheet" href="Content/css/bootstrap.min.css">
+        <link rel="stylesheet" href="Content/css/font-awesome.min.css">
+        <link rel="stylesheet" href="Content/css/owl.carousel.css">
+        <link rel="stylesheet" href="Content/css/owl.theme.css">
+        <link rel="stylesheet" href="Content/css/yamm.css">
+        <link rel="stylesheet" href="Content/css/style.css">
+        <link rel="stylesheet" href="Content/css/responsive.css">*@
+
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+        <!-- NAVBAR -->
+        <nav class="navbar navbar-default yamm navi-bar">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("The Cake", "", "Cakes", new { area = "" }, new { @class = "navbar-brand" })
+                </div>
+
+                <div class="collapse navbar-collapse" id="bs-navbar-collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>@Html.ActionLink("Home", "", "Cakes")</li>
+                        <li class="dropdown dd-nmg">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mega Menu <i class="fa fa-angle-down"></i></a>
+                            <ul class="dropdown-menu">
+                                <li>@Html.ActionLink("List Cake", "", "Cakes")</li>
+                            </ul>
+                        </li>
+                        <li class="dropdown dd-nmg">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
+                            @Html.Partial("_LoginPartial")
+                        </li>
+                        <li class="dropdown dd-nmg">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <i class="fa fa-angle-down"></i></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="blog.html">Home Blog</a></li>
+                                <li><a href="blog-single.html">Single Blog</a></li>
+                            </ul>
+                        </li>
+                        <li>@Html.ActionLink("About Us", "About", "Home")</li>
+                        <li>@Html.ActionLink("Contact Us", "Contact", "Home")</li>
+                        <li class="dropdown dd-nmg navbar-cart">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-cart-arrow-down"></i><span>1</span></a>
+                            <ul class="dropdown-menu nav-cart-width">
+                                <li class="row">
+                                    <div class="navcart-content">
+                                        <div class="col-md-3 col-sm-3">
+                                            <div class="nav-cart">
+                                                <img src="Content/img/product1.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-7 col-sm-7">
+                                            <div class="nav-cart">
+                                                <a href="">Product Lorem <div class="nav-price">$19</div></a>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-2 col-sm-2">
+                                            <div class="nav-cart">
+                                                <a href=""><i class="fa fa-trash"></i></a>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <button type="button" class="btn button">CHECKOUT</button>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- END NAVBAR -->
+        <!-- SLIDER -->
+        <div id="slider" class="owl-carousel owl-theme">
+            <div class="item">
+                <img src="Content/img/slide/slide1.jpg" alt="">
+                <div class="caption">
+                    <h1>BLA BLA ...</h1>
+                    <h2>LOREM IPSUM DOLOR SIT META</h2>
+                    <button type="button" class="btn button">SHOP NOW</button>
+                </div>
+            </div>
+            <div class="item">
+                <img src="Content/img/slide/slide2.jpg" alt="">
+                <div class="caption">
+                    <h1>BLA BLA ...</h1>
+                    <h2>LOREM IPSUM DOLOR SIT META</h2>
+                    <button type="button" class="btn button">SHOP NOW</button>
+                </div>
+            </div>
+            <div class="item">
+                <img src="Content/img/slide/slide3.jpg" alt="">
+                <div class="caption">
+                    <h1>BLA BLA ...</h1>
+                    <h2>LOREM IPSUM DOLOR SIT META</h2>
+                    <button type="button" class="btn button">SHOP NOW</button>
+                </div>
+            </div>
+        </div>
+        <!-- END SLIDER -->
+    </header>
+    <!-- END HEADER -->
+    <hr>
+    <!-- SECTION -->
+    <div class="section">
+        <div class="container">
+            @RenderBody()
+        </div>
+    </div>
+    <!-- END SECTION -->
+    <!-- FOOTER -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-3">
+                    <div class="footer-content">
+                        <h5>ABOUT US</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis eum sunt atque nobis tempora. Necessitatibus inventore provident consectetur neque veniam, exercitationem</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <div class="footer-content">
+                        <h5>CONTACT US</h5>
+                        <ul>
+                            <li>08 Ton That Thuyet, Nam Tu Liem</li>
+                            <li>1900100CO</li>
+                            <li>danhnbd00421@fpt.edu.vn</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <div class="footer-content">
+                        <h5>MY ACCOUNT</h5>
+                        <ul>
+                            <li><a href="">Login</a></li>
+                            <li><a href="">Register</a></li>
+                            <li><a href="">Checkout</a></li>
+                            <li><a href="">Single Product</a></li>
+                            <li><a href="">Cart</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <div class="footer-content">
+                        <h5>INFORMATION</h5>
+                        <ul>
+                            <li><a href="">About Us</a></li>
+                            <li><a href="">Sell With Us</a></li>
+                            <li><a href="">Why Buy Here</a></li>
+                            <li><a href="">Contact Us</a></li>
+                            <li><a href="">Discount</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-cp">
+                <p>All Right Reserved</p>
+            </div>
+        </div>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <!-- END FOOTER -->
+    <!-- SCROLL TO TOP -->
+    <a href="#toTop" id="toTop"><i class="fa fa-arrow-up"></i></a>
+    <!-- END SCROLL TO TOP -->
+    <!-- SCRIPT -->
+    @*<script src="Content/js/jquery.min.js"></script>
+        <script src="Content/js/bootstrap.min.js"></script>*@
+    <script src="Content/js/owl.carousel.min.js"></script>
+    <script src="Content/js/jquery.scrollToTop.min.js"></script>
+    <script src="Content/js/main.js"></script>
+
+
+
+
+    @*<div class="navbar navbar-inverse navbar-fixed-top">
+                    <div class="container">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            @Html.ActionLink("The Cake", "", "Cakes", new { area = "" }, new { @class = "navbar-brand" })
+                        </div>
+                        <div class="navbar-collapse collapse">
+                            <ul class="nav navbar-nav">
+                                <li>@Html.ActionLink("List Cake", "", "Cakes")</li>
+                                <li>@Html.ActionLink("About", "About", "Home")</li>
+                                <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                            </ul>
+                            @Html.Partial("_LoginPartial")
+                        </div>
+                    </div>
+                </div>
+            <div class="container body-content">
+                @RenderBody()
+                <hr />
+                <footer>
+                    <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+                </footer>
+            </div>
+
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)*@
+</body>
+</html>

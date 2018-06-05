@@ -1,0 +1,142 @@
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\ApplicationInsights.config
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\CakeStore.dll.config
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\CakeStore.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\CakeStore.pdb
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Antlr3.Runtime.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\EntityFramework.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\EntityFramework.SqlServer.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.AI.DependencyCollector.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.AI.Web.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.AI.WindowsServer.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.ApplicationInsights.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.Security.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.Security.Google.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Newtonsoft.Json.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Owin.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\System.Web.Helpers.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\System.Web.Mvc.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\System.Web.Optimization.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\System.Web.Razor.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\System.Web.WebPages.Deployment.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\System.Web.WebPages.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\System.Web.WebPages.Razor.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\WebGrease.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\System.Web.Helpers.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\System.Web.Mvc.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\System.Web.Optimization.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\System.Web.Razor.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\System.Web.WebPages.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\System.Web.WebPages.Deployment.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\System.Web.WebPages.Razor.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Antlr3.Runtime.pdb
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Newtonsoft.Json.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\EntityFramework.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\EntityFramework.SqlServer.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.Security.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.Security.Google.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.ApplicationInsights.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.AI.DependencyCollector.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.AI.WindowsServer.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\bin\Microsoft.AI.Web.xml
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\obj\Debug\CakeStore.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\obj\Debug\CakeStore.dll
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\obj\Debug\CakeStore.pdb
+D:\Learn\C#\Website Application Development\CakeStore\CakeStore\obj\Debug\CakeStore.csprojResolveAssemblyReference.cache
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\ApplicationInsights.config
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\CakeStore.dll.config
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\CakeStore.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\CakeStore.pdb
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Antlr3.Runtime.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\EntityFramework.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\EntityFramework.SqlServer.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.AI.Web.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.Security.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Newtonsoft.Json.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Owin.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\System.Web.Helpers.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\System.Web.Mvc.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\System.Web.Optimization.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\System.Web.Razor.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\System.Web.WebPages.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\WebGrease.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\System.Web.Helpers.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\System.Web.Mvc.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\System.Web.Optimization.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\System.Web.Razor.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\System.Web.WebPages.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Antlr3.Runtime.pdb
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Newtonsoft.Json.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\EntityFramework.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\EntityFramework.SqlServer.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.Security.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\bin\Microsoft.AI.Web.xml
+C:\Users\win10\Documents\CakeStore\CakeStore\obj\Debug\CakeStore.csproj.CoreCompileInputs.cache
+C:\Users\win10\Documents\CakeStore\CakeStore\obj\Debug\CakeStore.dll
+C:\Users\win10\Documents\CakeStore\CakeStore\obj\Debug\CakeStore.pdb
+C:\Users\win10\Documents\CakeStore\CakeStore\obj\Debug\CakeStore.csprojResolveAssemblyReference.cache
